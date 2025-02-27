@@ -1,0 +1,73 @@
+Questão 1: Listar todos os títulos de filmes
+The Shawshank Redemption
+============================================
+Questão 2: Listar todas as séries
+Breaking Bad
+============================================
+Questão 3: Recuperar o filme/série com maior nota (rating)
+Breaking Bad
+============================================
+Questão 4: Listar os gêneros de todos os filmes e séries
+Crime, Drama, Thriller
+============================================
+Questão 5: Obter o número total de filmes e séries
+Total de filmes: 1
+Total de séries: 1
+============================================
+Questão 6: Listar todas as plataformas de streaming disponíveis
+Netflix, Amazon Prime
+============================================
+Questão 7: Filtrar os filmes/séries disponíveis em 4K no Netflix
+The Shawshank Redemption
+Breaking Bad
+============================================
+Questão 8: Identificar plataformas onde um filme específico está disponível
+Filme: The Shawshank Redemption
+Plataformas disponíveis: Netflix
+URLs disponíveis: , https://www.netflix.com/title/70005379
+============================================
+Questão 9: Listar todos os atores e os personagens que interpretam
+Tim Robbins como Andy Dufresne
+Morgan Freeman como Ellis Boyd 'Red' Redding
+Bryan Cranston como Walter White
+Aaron Paul como Jesse Pinkman
+============================================
+Questão 10: Obter o ator com maior salário em um filme ou série
+Morgan Freeman
+============================================
+Questão 11: Listar todas as localizações de filmagem dos filmes
+Mansfield, Ohio, Ashland, Ohio
+============================================
+Questão 12: Listar os diretores de cada filme
+Frank Darabont
+============================================
+Questão 13: Obter o filme com maior receita na bilheteria (revenue)
+The Shawshank Redemption
+============================================
+Questão 14: Calcular o lucro médio dos filmes
+Lucro médio: $3341469.00
+============================================
+Questão 15: Obter a distribuição de vendas de ingressos por região
+Vendas domésticas: 15000000
+Vendas internacionais: 15000000
+============================================
+Questão 16: Listar todos os prêmios e categorias de cada filme/série
+{'year': 1995, 'award': 'Academy Awards', 'category': 'Best Picture'}
+{'year': 2013, 'award': 'Primetime Emmy Awards', 'category': 'Outstanding Drama Series'}
+============================================
+Questão 17: Identificar filmes/séries que ganharam prêmios
+Breaking Bad
+============================================
+Questão 18: Listar os indicados ao prêmio de 'Melhor Filme' de cada ano
+Ano: 1995
+Indicados: Forrest Gump, Pulp Fiction, Four Weddings and a Funeral, Quiz Show
+============================================
+Questão 19: Obter o comentário com maior número de votos úteis (helpfulVotes)
+The best TV show ever made!
+============================================
+Questão 20: Calcular a nota média dos filmes
+Nota média: 9.30
+============================================
+Questão 21: Filtrar todas as avaliações feitas antes de 2022
+[{'user': 'SkylerNotGuilty', 'rating': 10, 'comment': 'The best TV show ever made!', 'details': {'helpfulVotes': 500, 'date': '2021-08-10'}}]
+============================================
